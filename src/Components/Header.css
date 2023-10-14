@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Satisfy&display=swap');
+
+.logo {
+    font-family: 'Borel', cursive;
+    font-family: 'Satisfy', cursive;
+    color: white;
+    font-size: 48px;
+    margin: auto;
+}
+.select{
+    padding: 10px;
+    font-size: 17px;
+}
+.head .nav2 btn btn-primary btn-1{
+    color: white;
+}
+/* .form{
+    padding: 30px;
+} */
+/* .navbar-nav{
+    padding: 80px;
+} */
+/* .form-group{
+    padding: 0px;
+} */
